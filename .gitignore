@@ -3,3 +3,4 @@
 *.o
 projects/*/bin
 projects/*/results
+*.exe
